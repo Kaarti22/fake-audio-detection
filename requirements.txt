@@ -4,3 +4,7 @@ tqdm
 matplotlib
 Ipython
 scikit-learn
+ipykernel
+tensorflow
+pydub
+ffmpeg
