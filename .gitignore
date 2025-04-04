@@ -3,3 +3,6 @@ dataset
 
 # Virtual environment
 env
+
+# Processed Data
+processed_data
